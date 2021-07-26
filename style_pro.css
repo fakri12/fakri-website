@@ -1,0 +1,125 @@
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 100%;
+}
+.persenal{
+    width: 20%;
+}
+.logo-skills{
+    width: 20%;
+}
+.image-experience{
+    float: left;
+    margin-right: 5%;
+}
+.image-language{
+    float: right;
+    margin-right: 20%;
+    
+}
+.hello{
+    margin-top: 0px;
+}
+h1{
+    color: #66BFBF;
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 520%;
+    line-height: 3;
+}
+.skills-paragraph{
+    padding-top: 30px;
+    width: 50%;
+    margin: auto;
+    line-height: 2;
+}
+hr{
+    border: dotted #66BFBF 6px;    
+    width: 30%;
+    border-top: none;
+}
+h2{
+    color: #66BFBF;
+    margin-top: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    padding: 15px;
+}
+a{
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: #2a4141;
+}
+h3{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+}
+div{
+    background-color: #E4F9F5;
+}
+.pro{
+    text-decoration: underline;
+}
+.buttom-cloud{
+    position: absolute;
+    left: 29%;
+}
+.top-cloud{
+    position: relative;
+    padding-top: 20px;
+    left: 20%;
+    top: 50px;
+}
+.contact{
+    height: 120px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.para{
+    width: 20%;
+    height: 20%;
+    margin: auto 50% auto auto;
+}
+.btn {
+    margin: 20px auto;
+	box-shadow: 1px 2px 0px 0px #899599;
+	background:linear-gradient(to bottom, #faedfa 5%, #bab1ba 100%);
+	background-color:#faedfa;
+	border-radius:8px;
+	border:1px solid #d6bcd6;
+	display:inline-block;
+	cursor:pointer;
+	color:#3a8a9e;
+	font-family:Arial;
+	font-size:17px;
+	padding:4px 14px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #e1e2ed;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #bab1ba 5%, #faedfa 100%);
+	background-color:#bab1ba;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: aqua;
+    margin-bottom: 0;
+}
+.copyright{
+    font-size: 0.75rem;
+}
